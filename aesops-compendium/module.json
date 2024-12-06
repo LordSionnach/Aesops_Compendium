@@ -19,7 +19,7 @@
       "flags": {}
     }
   ],
-  "url": "https://git.xelaspirit.net:10000/XelaSpirit/Aesops_Compendium",
+  "url": "https://raw.githubusercontent.com/LordSionnach/Aesops_Compendium/refs/heads/main/aesops-compendium/module.json",
   "packs": [
     {
       "name": "aesops-compendium",
