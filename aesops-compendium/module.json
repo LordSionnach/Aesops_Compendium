@@ -19,7 +19,9 @@
       "flags": {}
     }
   ],
-  "url": "https://raw.githubusercontent.com/LordSionnach/Aesops_Compendium/refs/heads/main/aesops-compendium/module.json",
+  "manifest": "https://raw.githubusercontent.com/LordSionnach/Aesops_Compendium/refs/heads/main/aesops-compendium/module.json",
+  "download": "https://github.com/LordSionnach/Aesops_Compendium/archive/refs/heads/main.zip",
+  "url": "https://github.com/LordSionnach/Aesops_Compendium",
   "packs": [
     {
       "name": "aesops-compendium",
