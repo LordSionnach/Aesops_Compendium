@@ -1,0 +1,37 @@
+{
+  "id": "aesops-compendium",
+  "title": "Aesop's Compendium",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "12"
+  },
+  "description": "A collection of D&amp;D content for Foundry VTT",
+  "authors": [
+    {
+      "name": "XelaSpirit",
+      "discord": "XelaSpirit",
+      "flags": {}
+    },
+    {
+      "name": "Sionnach",
+      "discord": "Lord Sionnach",
+      "flags": {}
+    }
+  ],
+  "url": "https://git.xelaspirit.net:10000/XelaSpirit/Aesops_Compendium",
+  "packs": [
+    {
+      "name": "aesops-compendium",
+      "label": "Aesop's Compendium",
+      "path": "packs/aesops-compendium",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "dnd5e",
+      "flags": {}
+    }
+  ]
+}
