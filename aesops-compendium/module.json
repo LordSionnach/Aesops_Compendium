@@ -1,10 +1,10 @@
 {
   "id": "aesops-compendium",
   "title": "Aesop's Compendium",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "compatibility": {
-    "minimum": "12",
-    "verified": "12"
+    "minimum": "13",
+    "verified": "13"
   },
   "description": "A collection of D&amp;D content for Foundry VTT",
   "authors": [
